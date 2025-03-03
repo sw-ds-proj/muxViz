@@ -1,3 +1,5 @@
+#install.packages("devtools")
+#devtools::install_github("manlius/muxViz")
 library("muxViz")
 
 #This dataset is provided with the "standalone" library
